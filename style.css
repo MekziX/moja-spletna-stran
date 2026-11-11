@@ -2,3 +2,10 @@ body{
     background-color:beige;
     color:aquamarine;
 }
+
+h1{
+    background-color:navy;
+    color:white;
+    border:2px solid gold;
+    padding:10px;
+}
